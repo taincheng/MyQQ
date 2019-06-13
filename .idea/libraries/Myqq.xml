@@ -1,0 +1,25 @@
+<component name="libraryTable">
+  <library name="Myqq">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/pop3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/c3p0-0.9.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mail.jar!/" />
+      <root url="jar://$PROJECT_DIR$/ezmorph-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-lang-2.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/taobao-sdk-java-auto_1455552377940-20160813.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-beanutils-1.7.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-collections-3.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-email-1.4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/commons-logging.jar!/" />
+      <root url="jar://$PROJECT_DIR$/gimap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/smtp.jar!/" />
+      <root url="jar://$PROJECT_DIR$/dsn.jar!/" />
+      <root url="jar://$PROJECT_DIR$/json-lib-2.2.3-jdk15.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mysql-connector-java-5.1.18-bin.jar!/" />
+      <root url="jar://$PROJECT_DIR$/imap.jar!/" />
+      <root url="jar://$PROJECT_DIR$/mailapi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
